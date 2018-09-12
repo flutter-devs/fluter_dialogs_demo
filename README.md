@@ -3,7 +3,7 @@
 A Flutter app to showcase different types of dialogs(Custom Dialog, Date Picker, Time Picker etc.). 
 
 # Demo
-<img height="480px" src="https://github.com/flutter-devs/flutter_gridview_demo/blob/master/screens/demo.gif">
+<img height="480px" src="https://github.com/flutter-devs/fluter_dialogs_demo/blob/master/screens/demo.gif">
 
 
 
